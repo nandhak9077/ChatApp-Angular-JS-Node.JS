@@ -25,7 +25,7 @@
     "express-mailer": "^0.3.1",
     "express-validator": "^5.3.1",
     "install-peerdeps": "^1.10.2",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "mdi": "^2.2.43",
     "mongoose": "^5.4.15",
     "nodemailer": "^5.1.1",
